@@ -243,7 +243,7 @@
     {
       "abv": 12,
       "description": "«Мечта Монаха» – Виноградное полусладкое красное вино, приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом.",
-      "image": "assets/images/mechta-monaha-red-halfsweet-0.7.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mechta-monaha-red-halfsweet-0.7.png?alt=media&token=fe12ee55-943b-48f7-ad96-a799c9a3b8be",
       "name": "Мечта Монаха",
       "price": 140,
       "volume": 0.7
