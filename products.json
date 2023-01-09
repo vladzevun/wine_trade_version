@@ -6,7 +6,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-risling-0.7.png?alt=media&token=b4322e31-4607-4ab0-add1-928cbe626521",
       "name": "Рислинг бел п.сух",
       "price": 170,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 11,
@@ -14,7 +15,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
       "name": "Каберне кр сух",
       "price": 170,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 11,
@@ -22,7 +24,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
       "name": "Каберне кр п.сух",
       "price": 170,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 11,
@@ -30,7 +33,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
       "name": "Каберне кр п.слад",
       "price": 170,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 11,
@@ -38,7 +42,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kindzmarauli-red-halfdry-0.7.png?alt=media&token=96c05091-ccd3-4a9f-af90-7531aee1536f",
       "name": "Киндзмараули полусух",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 11,
@@ -46,7 +51,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kindzmarauli-red-halfsweet-0.7.png?alt=media&token=88bcda65-92a6-4e9a-a051-7e62b1a7accb",
       "name": "Киндзмараули полуслад",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 18,
@@ -54,7 +60,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/portvein-red-sweet-0.7.png?alt=media&token=1b55de74-f71e-4034-9da1-9d1e73180db0",
       "name": "Портвеин",
       "price": 120,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 4
     },
     {
       "abv": 16,
@@ -62,7 +69,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kagor-desert-red-sweet-0.7.png?alt=media&token=9695868b-fe27-4361-9b2b-470ccac8fe9b",
       "name": "Кагор десертный",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 3
     },
     {
       "abv": 18,
@@ -70,7 +78,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-red-0.7.png?alt=media&token=b8ac3478-4ede-429b-aec4-da064da34dee",
       "name": "Вермут",
       "price": 120,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 4
     },
     {
       "abv": 16,
@@ -78,7 +87,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kadarka-red-halfdry-0.7.png?alt=media&token=5e04b0e8-ba83-4f19-ac1b-e8cc28aca6c6",
       "name": "Кадарка",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 16,
@@ -86,7 +96,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/old-wine-red-halfsweet-0.7.png?alt=media&token=866a911c-6cb1-413f-9075-8050a3015c7c",
       "name": "Старый винный погребок",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 18,
@@ -94,7 +105,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-red-0.1.png?alt=media&token=8d44c9a8-23c3-457e-87c7-0b8dab08bbaa",
       "name": "Вермут крас",
       "price": 19,
-      "volume": 0.1
+      "volume": 0.1,
+	  "type": 4
     },
     {
       "abv": 18,
@@ -102,7 +114,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-white-0.1.png?alt=media&token=151c70af-a3fc-40b5-b9ee-e4bf45f61eb4",
       "name": "Вермут бел",
       "price": 19,
-      "volume": 0.1
+      "volume": 0.1,
+	  "type": 4
     },
     {
       "abv": 16,
@@ -110,7 +123,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kagor-red-0.1.png?alt=media&token=c50166bb-1c07-4996-be6c-95e185e88438",
       "name": "Кагор",
       "price": 20,
-      "volume": 0.1
+      "volume": 0.1,
+	  "type": 3
     },
     {
       "abv": 40,
@@ -118,7 +132,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/konyak-0.1.png?alt=media&token=b0dfed82-ab36-4c03-9660-c864e16b1427",
       "name": "Коньяк",
       "price": 37,
-      "volume": 0.1
+      "volume": 0.1,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -126,7 +141,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.1.png?alt=media&token=630ed444-9f27-484e-8c50-9e48d71fb53e",
       "name": "Кальвадос",
       "price": 37,
-      "volume": 0.1
+      "volume": 0.1,
+	  "type": 1
     },
     {
       "abv": 16,
@@ -134,7 +150,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bear-blood-red-halfsweet-0.7.png?alt=media&token=860acac9-f543-4b63-86e5-ecde083daa7b",
       "name": "Медвежья кровь",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 16,
@@ -142,7 +159,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/black-doctor-red-halfsweet-0.7.png?alt=media&token=5f9b2645-395b-4d1f-88cd-f242b9ba2399",
       "name": "Чёрный доктор",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 3
     },
     {
       "abv": 40,
@@ -150,7 +168,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/turkistan-0.5.png?alt=media&token=2a4041b4-c4fd-455e-8deb-fb30592ee7c6",
       "name": "Туркистан",
       "price": 190,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -158,7 +177,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/turkistan-0.2.png?alt=media&token=dc4820e1-e41a-4f77-ab40-fd1d7ffaf3b2",
       "name": "Туркистан",
       "price": 95,
-      "volume": 0.2
+      "volume": 0.2,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -166,7 +186,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/brandy-0.5.png?alt=media&token=7ef2be1c-a1c0-44e7-a22c-667fd9ccdb0a",
       "name": "Бренди",
       "price": 150,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -174,7 +195,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/brandy-0.2.png?alt=media&token=a4f461cc-b8ca-4184-83ea-e5c3e557256b",
       "name": "Бренди",
       "price": 90,
-      "volume": 0.2
+      "volume": 0.2,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -182,7 +204,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyzstan-0.5.png?alt=media&token=194f10f0-877f-48b7-8518-eb9e70ad5b0c",
       "name": "Кыргызстан",
       "price": 240,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -190,7 +213,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyzstan-0.2.png?alt=media&token=72c486c4-ef61-442e-b6bb-4cd576d2d4c3",
       "name": "Кыргызстан",
       "price": 150,
-      "volume": 0.2
+      "volume": 0.2,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -198,7 +222,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.5.png?alt=media&token=0e8d166b-0041-42ad-9ef2-ce479b2aa69b",
       "name": "Кальвадос",
       "price": 190,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 1
     },
     {
       "abv": 40,
@@ -206,7 +231,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.2.png?alt=media&token=f32c01f3-cf8f-4728-bb03-480103b21202",
       "name": "Кальвадос",
       "price": 95,
-      "volume": 0.2
+      "volume": 0.2,
+	  "type": 1
     },
     {
       "abv": 12,
@@ -214,7 +240,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/rkaceteli-white-halfdry-0.7.png?alt=media&token=c65faeca-07c7-4e97-a873-503bb6b508a6",
       "name": "Ркацители полусух",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 12,
@@ -222,7 +249,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/rkaceteli-white-halfsweet-0.7.png?alt=media&token=71680b6f-13e3-4490-b729-bad57b1779c7",
       "name": "Ркацители полуслад",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 16,
@@ -230,7 +258,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kagor-krest-red-0.7.png?alt=media&token=7a8bace8-75ef-4413-9017-0863834f121f",
       "name": "Кагор Крестоносец",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 3
     },
     {
       "abv": 12,
@@ -238,7 +267,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kaberne-sovinyon-red-halfsweet-0.7.png?alt=media&token=78b28b68-a664-4451-ad5e-736d73be26b0",
       "name": "Каберне Совиньон",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 12,
@@ -246,7 +276,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mechta-monaha-red-halfsweet-0.7.png?alt=media&token=fe12ee55-943b-48f7-ad96-a799c9a3b8be",
       "name": "Мечта Монаха",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 16,
@@ -254,7 +285,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kagor-monastyr-red-0.7.png?alt=media&token=6a06f372-6666-40f9-a651-ab7488d2ff12",
       "name": "Кагор Монастырский",
       "price": 150,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 3
     },
     {
       "abv": 12,
@@ -262,7 +294,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/saperavi-red-halfsweet-0.7.png?alt=media&token=e96f98ac-3e4d-43d9-a92f-9016db50ef13",
       "name": "Саперави",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 12,
@@ -270,7 +303,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/muskat-red-halfsweet-0.7.png?alt=media&token=bac89936-1256-4028-bc0e-7ccb47b10e36",
       "name": "Мускат",
       "price": 140,
-      "volume": 0.7
+      "volume": 0.7,
+	  "type": 2
     },
     {
       "abv": 17,
@@ -278,7 +312,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/chernaya-smorodina-10.png?alt=media&token=4773d424-e301-4ec0-b609-6bff0e0d6a74",
       "name": "Чёрная смородина",
       "price": 900,
-      "volume": 10
+      "volume": 10,
+	  "type": 5
     },
     {
       "abv": 18,
@@ -286,7 +321,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-red-10.png?alt=media&token=a56ed811-4172-427f-bb7c-82aa84aef6fe",
       "name": "Вермут красный",
       "price": 900,
-      "volume": 10
+      "volume": 10,
+	  "type": 4
     },
     {
       "abv": 17,
@@ -294,7 +330,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/granat-10.png?alt=media&token=01b57ad4-3e1d-4c9b-9629-289cb9459235",
       "name": "Гранат",
       "price": 900,
-      "volume": 10
+      "volume": 10,
+	  "type": 5
     },
     {
       "abv": 40,
@@ -302,7 +339,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyzstan-winetrade-0.5.png?alt=media&token=6da4e44e-70fe-4b54-b2ef-847d60049e43",
       "name": "Кыргызстан WineTrade",
       "price": 280,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 1
     },
     {
       "abv": 18,
@@ -310,7 +348,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/portvein-red-sweet-0.5.png?alt=media&token=5f8351ee-b5f0-4514-a375-9ae7cf268287",
       "name": "Портвейн",
       "price": 80,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 4
     },
     {
       "abv": 18,
@@ -318,7 +357,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-red-0.5.png?alt=media&token=446d184a-d835-457a-b3b5-07ac91b78651",
       "name": "Вермут",
       "price": 80,
-      "volume": 0.5
+      "volume": 0.5,
+	  "type": 4
     },
     {
       "abv": 4,
@@ -326,7 +366,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bizon-white-1.5.png?alt=media&token=298d361f-8363-4e71-bc56-7db78b69e077",
       "name": "Бизон Светлое",
       "price": 190,
-      "volume": 1.5
+      "volume": 1.5,
+	  "type": 1
     },
     {
       "abv": 5,
@@ -334,7 +375,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bizon-black-1.5.png?alt=media&token=84fb8ad3-4773-4971-9648-70fa0f53d9ae",
       "name": "Бизон Тёмное",
       "price": 190,
-      "volume": 1.5
+      "volume": 1.5,
+	  "type": 1
     },
     {
       "abv": 4,
@@ -342,7 +384,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bizon-white-20.png?alt=media&token=3b65de44-6609-4401-a1af-dc7aec01bce8",
       "name": "Бизон Светлое",
       "price": 2600,
-      "volume": 20
+      "volume": 20,
+	  "type": 1
     },
     {
       "abv": 5,
@@ -350,7 +393,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bizon-black-20.png?alt=media&token=4a9a255d-153d-4eb1-8369-cdb8692b8343",
       "name": "Бизон Тёмное",
       "price": 2600,
-      "volume": 20
+      "volume": 20,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -358,7 +402,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/dizzy-original-image.png?alt=media&token=ca85cfb4-5258-4de6-8f66-4aaf3802e180",
       "name": "Dizzy energy original",
       "price": 54,
-      "volume": 0.33
+      "volume": 0.33,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -366,7 +411,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/dizzy-cola-image.png?alt=media&token=80907e5a-7d52-4336-98c9-35ff104803f5",
       "name": "Dizzy energy cola",
       "price": 54,
-      "volume": 0.33
+      "volume": 0.33,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -374,7 +420,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/dizzy-extreme-image.png?alt=media&token=5beb6fb9-cd60-4cb5-bd2e-d020e11abc56",
       "name": "Dizzy energy extreme",
       "price": 54,
-      "volume": 0.33
+      "volume": 0.33,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -382,7 +429,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/dizzy-lemon-image.png?alt=media&token=e45c37ba-14ad-4bc8-bd17-e124e8681484",
       "name": "Dizzy energy lemon",
       "price": 54,
-      "volume": 0.33
+      "volume": 0.33,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -390,7 +438,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mohito-image.png?alt=media&token=40090dad-6a9c-4416-b25d-23a7c8826e1e",
       "name": "Mojito",
       "price": 52,
-      "volume": 0.275
+      "volume": 0.275,
+	  "type": 1
     },
     {
       "abv": 0,
@@ -398,7 +447,8 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mohito-can-image.png?alt=media&token=cfc7f39f-177a-4005-8863-ad58de7739a1",
       "name": "Mojito can",
       "price": 60,
-      "volume": 0.45
+      "volume": 0.45,
+	  "type": 1
     }
   ]
 }
