@@ -131,7 +131,7 @@
       "description": "Коньяк 0,1 - производится по классической технологии из высококачественных коньячных спиртов. Имеет красивый темно–янтарный цвет, полный гармоничный вкус. Букет сложный с характерными ванильными тонами.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/konyak-0.1.png?alt=media&token=b0dfed82-ab36-4c03-9660-c864e16b1427",
       "name": "Коньяк",
-      "price": 37,
+      "price": 39,
       "volume": 0.1,
 	  "type": 6
     },
@@ -140,7 +140,7 @@
       "description": "Яблочный бренди кальвадос (calvados) — крепкий алкогольный напиток на основе фруктов (чаще яблок, а также груш). Получают кальвадос путем двойной дистилляции сидра —который, в свою очередь, является результатом брожения яблочного сусла. Французский яблочный или грушевый бренди.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.1.png?alt=media&token=630ed444-9f27-484e-8c50-9e48d71fb53e",
       "name": "Кальвадос",
-      "price": 37,
+      "price": 40,
       "volume": 0.1,
 	  "type": 6
     },
