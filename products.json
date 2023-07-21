@@ -347,7 +347,7 @@
       "description": "Бишкек (Кыргызстан) - 0,5 л. - производится по классической технологии из высококачественных коньячных спиртов 5 летней выдержки. Имеет красивый темно–янтарный цвет. Полный гармоничный вкус с характерными дубовыми нотками.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bishkek.png?alt=media&token=ccd3ad45-0c68-4d65-b644-1561e1e8e8ef",
       "name": "Бишкек WineTrade",
-      "price": 260,
+      "price": 240,
       "volume": 0.5,
 	  "type": 6
     },
