@@ -446,7 +446,7 @@
       "description": "Мохито - это освежающий коктейль, созданный на основе экстрактов мяты и лайма. Мята оказывает тонизирующее действие и восстанавливает силы, а лайм оказывает успокаивающее действие, улучшает настроение и самочувствие.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mohito-image.png?alt=media&token=40090dad-6a9c-4416-b25d-23a7c8826e1e",
       "name": "Mojito",
-      "price": 47,
+      "price": 30,
       "volume": 0.275,
 	  "type": 1
     },
