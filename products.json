@@ -2,10 +2,100 @@
   "products": [
     {
       "abv": 40,
+      "description": "Органическая водка из спирта «Люкс», изготовленного из высочайших сортов пшеницы и чистейшей природной воды, очищенной на суперсовременном оборудовании, обладает благородным, гармоничным, богатым вкусом и продолжительным согревающим послевкусием. Водка «Лев Толстой» обладает кристальной чистотой.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/tolstoy1.png?alt=media&token=c217015b-a99e-42f8-93a1-a03d48ecfe27",
+      "name": "Водка «Лев Толстой»",
+      "price": 900,
+      "volume": 1.0,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Органическая водка из спирта «Люкс», изготовленного из высочайших сортов пшеницы и чистейшей природной воды, очищенной на суперсовременном оборудовании, обладает благородным, гармоничным, богатым вкусом и продолжительным согревающим послевкусием. Водка «Лев Толстой» обладает кристальной чистотой.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/tolstoy07.png?alt=media&token=2c9068a1-6e0c-4d6a-8efb-b6389df93a8d",
+      "name": "Водка «Лев Толстой»",
+      "price": 700,
+      "volume": 0.7,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Органическая водка из спирта «Люкс», изготовленного из высочайших сортов пшеницы и чистейшей природной воды, очищенной на суперсовременном оборудовании, обладает благородным, гармоничным, богатым вкусом и продолжительным согревающим послевкусием. Водка «Лев Толстой» обладает кристальной чистотой.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/tolstoy05.png?alt=media&token=a0815028-9e6d-46a8-9d06-e9185e2aebb9",
+      "name": "Водка «Лев Толстой»",
+      "price": 450,
+      "volume": 0.5,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Напиток экстра-класса, отличается мягким вкусом и кристальной чистотой. Создается по старинному уникальному рецепту из  высококачественной пшеницы. Сохраняет вкусовые качества на протяжении всего срока хранения. Идеальна в чистом виде, со льдом и в  коктейлях.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/extra05.png?alt=media&token=fd6a35b4-8f9a-4a15-90fa-b4e45ef1b912",
+      "name": "Водка «Экстра»",
+      "price": 315,
+      "volume": 0.7,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Напиток экстра-класса, отличается мягким вкусом и кристальной чистотой. Создается по старинному уникальному рецепту из  высококачественной пшеницы. Сохраняет вкусовые качества на протяжении всего срока хранения. Идеальна в чистом виде, со льдом и в  коктейлях.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/extra05.png?alt=media&token=fd6a35b4-8f9a-4a15-90fa-b4e45ef1b912",
+      "name": "Водка «Экстра»",
+      "price": 247,
+      "volume": 0.5,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Напиток экстра-класса, отличается мягким вкусом и кристальной чистотой. Создается по старинному уникальному рецепту из  высококачественной пшеницы. Сохраняет вкусовые качества на протяжении всего срока хранения. Идеальна в чистом виде, со льдом и в  коктейлях.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/extra02.png?alt=media&token=b846ca51-6a4c-49e1-be19-0fba07ed08aa",
+      "name": "Водка «Экстра»",
+      "price": 135,
+      "volume": 0.2,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Напиток экстра-класса, отличается мягким вкусом и кристальной чистотой. Создается по старинному уникальному рецепту из  высококачественной пшеницы. Сохраняет вкусовые качества на протяжении всего срока хранения. Идеальна в чистом виде, со льдом и в  коктейлях.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/extra01.png?alt=media&token=c093a030-6cc4-49b6-b889-391165770e82",
+      "name": "Водка «Экстра»",
+      "price": 42,
+      "volume": 0.1,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Водка премиум-класса с обволакивающим шелковистым вкусом и долгим послевкусием, получаемым благодаря уникальному купажу. Аромат традиционный, водочный, характерный для качественных водок.", 
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/moskovskaya05.png?alt=media&token=a97217b9-6138-4638-bc47-e02915381bf0",
+      "name": "Водка «Московская»",
+      "price": 315,
+      "volume": 0.7,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Водка премиум-класса с обволакивающим шелковистым вкусом и долгим послевкусием, получаемым благодаря уникальному купажу. Аромат традиционный, водочный, характерный для качественных водок.", 
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/moskovskaya05.png?alt=media&token=a97217b9-6138-4638-bc47-e02915381bf0",
+      "name": "Водка «Московская»",
+      "price": 247,
+      "volume": 0.5,
+      "type": 6
+    },
+    {
+      "abv": 40,
+      "description": "Водка премиум-класса с обволакивающим шелковистым вкусом и долгим послевкусием, получаемым благодаря уникальному купажу. Аромат традиционный, водочный, характерный для качественных водок.", 
+      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/moskovskaya02.png?alt=media&token=fd5946ef-62b4-4e78-bbc2-105c93c8ccb1",
+      "name": "Водка «Московская»",
+      "price": 135,
+      "volume": 0.2,
+      "type": 6
+    },
+    {
+      "abv": 40,
       "description": "Яблочный бренди кальвадос (calvados) — крепкий алкогольный напиток на основе фруктов (чаще яблок, а также груш). Получают кальвадос путем двойной дистилляции сидра —который, в свою очередь, является результатом брожения яблочного сусла. Французский яблочный или грушевый бренди.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.1.png?alt=media&token=630ed444-9f27-484e-8c50-9e48d71fb53e",
       "name": "Кальвадос",
-      "price": 43,
+      "price": 45,
       "volume": 0.1,
       "type": 6
     },
@@ -95,7 +185,7 @@
       "description": "Яблочный бренди кальвадос (calvados) — крепкий алкогольный напиток на основе фруктов (чаще яблок, а также груш). Получают кальвадос путем двойной дистилляции сидра —который, в свою очередь, является результатом брожения яблочного сусла. Французский яблочный или грушевый бренди.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.5.png?alt=media&token=0e8d166b-0041-42ad-9ef2-ce479b2aa69b",
       "name": "Кальвадос",
-      "price": 200,
+      "price": 220,
       "volume": 0.5,
       "type": 6
     },
@@ -104,7 +194,7 @@
       "description": "Яблочный бренди кальвадос (calvados) — крепкий алкогольный напиток на основе фруктов (чаще яблок, а также груш). Получают кальвадос путем двойной дистилляции сидра —который, в свою очередь, является результатом брожения яблочного сусла. Французский яблочный или грушевый бренди.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/calvados-0.2.png?alt=media&token=f32c01f3-cf8f-4728-bb03-480103b21202",
       "name": "Кальвадос",
-      "price": 105,
+      "price": 110,
       "volume": 0.2,
       "type": 6
     },
@@ -208,78 +298,6 @@
       "type": 4
     },
     {
-      "abv": 11,
-      "description": "«Kyrgyz Wine» Рислинг – Вино виноградное белое полусухое. Приготовленное из отборных сортов винограда Рислинг. Цвет светло-соломенный. Вкус с фруктовым ароматом.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-risling-0.7.png?alt=media&token=b4322e31-4607-4ab0-add1-928cbe626521",
-      "name": "Рислинг бел п.сух",
-      "price": 170,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 11,
-      "description": "«Kyrgyz Wine» Каберне – Вино виноградное выдержанное красное сухое. Приготовленное из винограда сорта Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
-      "name": "Каберне кр сух",
-      "price": 170,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 11,
-      "description": "«Kyrgyz Wine» Каберне – Вино виноградное красное полусухое. Приготовленное из винограда сорта Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
-      "name": "Каберне кр п.сух",
-      "price": 170,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 11,
-      "description": "«Kyrgyz Wine» Каберне – Вино виноградное красное полусладкое. Приготовленное из винограда сорта Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kyrgyz-wine-kaberne-red-halfsweet-0.7.png?alt=media&token=dc15ab8e-be10-4acf-b127-3d7ebe1c5967",
-      "name": "Каберне кр п.слад",
-      "price": 170,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 16,
-      "description": "Kadarka – Виноградное полусладкое красное вино , приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом. Хранить при температуре от +5 до +20 С и относительной влажности не более 85%. Гарантийный срок хранения 12 мес. со дня розлива.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kadarka-red-halfdry-0.7.png?alt=media&token=5e04b0e8-ba83-4f19-ac1b-e8cc28aca6c6",
-      "name": "Кадарка",
-      "price": 140,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 16,
-      "description": "«Старый винный погребок» – Виноградное полусладкое красное вино, приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом. Хранить при температуре от+5 до +20 С и относительной влажности не более 85%.Гарантийный срок хранения 12 мес. со дня розлива.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/old-wine-red-halfsweet-0.7.png?alt=media&token=866a911c-6cb1-413f-9075-8050a3015c7c",
-      "name": "Старый винный погребок",
-      "price": 140,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 16,
-      "description": "«Медвежья кровь» – Виноградное полусладкое красное вино, приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом. Хранить при температуре от +5 до +20 Си относительной влажности не более 85%. Гарантийный срок хранения 12 мес. со дня розлива.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/bear-blood-red-halfsweet-0.7.png?alt=media&token=860acac9-f543-4b63-86e5-ecde083daa7b",
-      "name": "Медвежья кровь",
-      "price": 140,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 16,
-      "description": "«Чёрный доктор» – Виноградное полусладкое красное вино, приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом. Хранить при температуре от +5 до +20 Си относительной влажности не более 85%. Гарантийный срок хранения 12 мес. со дня розлива.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/black-doctor-red-halfsweet-0.7.png?alt=media&token=5f9b2645-395b-4d1f-88cd-f242b9ba2399",
-      "name": "Чёрный доктор",
-      "price": 140,
-      "volume": 0.7,
-      "type": 3
-    },
-    {
       "abv": 12,
       "description": "Ркацители – белое полусухое вино. Производится из сорта винограда Ркацители, произрастающего во всех хозяйствах республики. Органолептическая характеристика вина: Цвет– от светло-золотистого до золотистого. Аромат – цветочно-пряный, с медовыми оттенками. Вкус – полный, гармоничный, с пикантной горчинкой в послевкусии. Кондиции вина Ркацители: Спирт– 12% об. Сахар – не более 2,0 г/дм3 Титруемые кислоты – 6,0 г/дм3.",
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/rkaceteli-white-halfdry-0.7.png?alt=media&token=c65faeca-07c7-4e97-a873-503bb6b508a6",
@@ -303,15 +321,6 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/kaberne-sovinyon-red-halfsweet-0.7.png?alt=media&token=78b28b68-a664-4451-ad5e-736d73be26b0",
       "name": "Каберне Совиньон",
       "price": 150,
-      "volume": 0.7,
-      "type": 2
-    },
-    {
-      "abv": 12,
-      "description": "«Мечта Монаха» – Виноградное полусладкое красное вино, приготовленное из отборных сортов винограда Саперави и Каберне. Цвет темно рубиновый. Вкус с бархатистым ароматом.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/mechta-monaha-red-halfsweet-0.7.png?alt=media&token=fe12ee55-943b-48f7-ad96-a799c9a3b8be",
-      "name": "Мечта Монаха",
-      "price": 140,
       "volume": 0.7,
       "type": 2
     },
@@ -359,15 +368,6 @@
       "price": 1000,
       "volume": 10,
       "type": 5
-    },
-    {
-      "abv": 18,
-      "description": "Вермут белый 0,1 - виноградное ароматизированное вино, обладает нежным вкусом и горчинкой трави пряностей. Крепость – 18%, содержание сахара – 5,0 г/100см3.Состав: вино виноградное, натуральный ароматический экстракт трав (полынь, корица, кардамон, гвоздика, душица обыкновенная) спирт, сахар.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/winetrade-firebase-b51f4.appspot.com/o/vermut-white-0.1.png?alt=media&token=151c70af-a3fc-40b5-b9ee-e4bf45f61eb4",
-      "name": "Вермут бел",
-      "price": 23,
-      "volume": 0.1,
-      "type": 4
     }
   ]
 }
